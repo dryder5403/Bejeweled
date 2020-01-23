@@ -25,6 +25,7 @@ public class BejeweledGame {
 				grid.draw(g);
 			}
 		};
+	
 		panel.setBackground(Color.BLACK);
 		panel.addMouseListener(new MouseAdapter() {
 			@Override
